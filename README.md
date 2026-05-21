@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Omar Almotairi 👋
 
-<!--
-**omaralmotiriy/omaralmotiriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity graduate and full-stack web developer focused on building secure, practical, and user-friendly web applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Cybersecurity graduate
+- 💻 Full-stack web developer
+- 🔐 Interested in secure web applications, access control, audit logs, and system hardening
+- 🛠️ Working with PHP, Laravel, MySQL, JavaScript, HTML, CSS, and XAMPP
+- 🚀 Building real-world systems for education, management, and business workflows
+
+## Featured Project
+
+### EduCore Pro
+
+EduCore Pro is an education management web system designed for admins, supervisors, and students.
+
+**Main features:**
+
+- Role-based dashboards
+- Student enrollment management
+- Course and level management
+- Private chat with secure attachments
+- Audit logs
+- Reports and statistics
+- Secure file downloads
+- Clean responsive UI
+
+**Tech stack:**
+
+- PHP
+- MySQL
+- JavaScript
+- HTML / CSS
+- XAMPP
+- Chart.js
+
+## Skills
+
+- Web Application Development
+- Database Design
+- Authentication & Authorization
+- Secure File Handling
+- Audit Logs
+- UI/UX Improvements
+- QA Testing
+- Project Documentation
+
+## Contact
+
+You can reach me through GitHub or LinkedIn.
