@@ -49,4 +49,4 @@ EduCore Pro is an education management web system designed for admins, superviso
 
 ## Contact
 
-You can reach me through GitHub or LinkedIn.
+You can reach me through GitHub or Email.
